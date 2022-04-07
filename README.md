@@ -1,8 +1,13 @@
 L - /lock
-K) - /key
-X) - /style
+
+K - /key
+
+X - /style
+
 P - /phone
+
 O - /satiety
+
 M - /mn
 
 - 👋 Hi, I'm @PattHs
